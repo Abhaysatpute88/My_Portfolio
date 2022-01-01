@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.unorder{
+    text-align: center;
+    justify-content:center;
+}
+.list{
+    text-decoration: none;
+    color: white;
+    border: 10px solid #45525e;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 4px 4px 5px rgba(0,0,0,0.65);
+
+
+}
