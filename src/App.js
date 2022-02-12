@@ -11,10 +11,10 @@ function App() {
     <>
       <BrowserRouter>
            <Navbar/>
-           <Route exact path="/" component={Home}/>
+           <Route exact path="/My_Portfolio" component={Home}/>
            <Route exact path="/About" component={About}/>
-           <Route exact path="/Contact" component={Project}/>
-           <Route exact path="/Project" component={Contact}/>
+           <Route exact path="/Project" component={Project}/>
+           <Route exact path="/Contact" component={Contact}/>
       </BrowserRouter>
     </>
   )
