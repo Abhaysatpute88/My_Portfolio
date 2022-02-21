@@ -11,8 +11,8 @@ const Home = () => {
                     <h1 className='i-name'>Abhay Satpute</h1>
                     <div className="i-title">
                         <div className="i-title-wrapper">
-                            <div className="i-title-item">Web Developer</div>
-                            <div className="i-title-item">UI/UX Designer</div>
+                            <div className="i-title-item">React Developer</div>
+                            <div className="i-title-item">Front-end Engineer</div>
                             <div className="i-title-item">Mechanical Engineer</div>
                         </div>
                     </div>
